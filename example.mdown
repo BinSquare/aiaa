@@ -1,0 +1,6 @@
+---
+title: example
+categories: "ex"
+
+---
+This is an example post.

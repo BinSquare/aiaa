@@ -3,13 +3,16 @@
   url: /
 - name: About
   slug: about
-  url: /about
+  url: /about/about.html
 - name: Projects
   slug: projects
-  url: /projects
+  url: /Projects/projects.html
+- name: Executive Members
+  slug: executive
+  url: /executive/executive.html
 - name: Contact
   slug: contact
-  url: /contact
+  url: /contact/contact.html
 - name: Archives
   slug: Archives
   url: /archives
