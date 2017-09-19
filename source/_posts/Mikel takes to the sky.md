@@ -2,6 +2,7 @@
 title: Mikel takes to the sky!
 categories: UAV
 author: BinBin
+date: 4-19-2017
 ---
 
 They've always said that if you shoot for the stars, you'll atleast land on the moon.  We're happy to announce that Mikel got the UAV off the ground and back on the pavement safely again. Some people call it low standards, we call it success. 

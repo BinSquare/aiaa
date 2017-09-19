@@ -1,7 +1,7 @@
 ---
 title: Welcome to the offical AIAA website!
 categories: "Announcements"
-
+date: 3-24-2017
 ---
 Welcome to the official website for AIAA at Illinois insitute of Technology!
 

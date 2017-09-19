@@ -2,6 +2,7 @@
 title: It's a bird! It's a plane! No wait, it's superman!!
 categories: UAV
 author: BinBin
+date: 3-24-2017
 ---
 
 Nevermind, that's definitely just a small plane. But it is the first time this whole semester we've gone out to log flight time!

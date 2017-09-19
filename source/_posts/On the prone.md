@@ -2,6 +2,7 @@
 title: Our drone is on the prone!
 categories: UAV
 author: BinBin
+date: 4-04-2017
 ---
 
 As finals draw near, the team is scrambling to get in as much flight time as possible in order to qualify for coming competition. 

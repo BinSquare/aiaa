@@ -2,7 +2,7 @@
 title: The end of the UAV competition!
 categories: "Announcements"
 author: "BinBin"
-
+date: 6-21-2017
 ---
 
 The journey of attempting to build and develop a drone for the UAV competition has been a rewarding learning experience. There is no better way to learn than to make mistakes and by that metric, the UAV team has learned a great deal. 
